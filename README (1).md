@@ -12,6 +12,4 @@ I'm doing this alongside my BSc in Computer Science, with an eye toward strength
 
 *(more projects will be added here as they're completed)*
 
-## About Me
 
-Final-year Computer Science student, freelance English teacher, and aspiring Security Analyst. Also maintain [Log_Analyser](https://github.com/jessicabeale/Log_Analyser), a Python tool for parsing SSH/Apache logs and detecting threats.
