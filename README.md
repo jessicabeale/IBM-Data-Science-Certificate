@@ -9,7 +9,6 @@ I'm doing this alongside my BSc in Computer Science, with an eye toward strength
 | # | Project | Description |
 |---|---------|-------------|
 | 01 | [Data Science Tools and Ecosystem](./01_data_science_tools_and_ecosystem/) | Overview of common data science languages, libraries, and tools, plus basic Python arithmetic examples |
+| 02 | [Analyzing Historical Stock/Revenue Data and Building a Dashboard](./Revenue_Data_and_Building_a_Dashboard-v1-COMPLETED.ipynb) | Extracted Tesla and GameStop stock data via yfinance and revenue data via web scraping (BeautifulSoup), cleaned it with pandas/regex, and built stock price vs. revenue dashboards with Matplotlib |
 
 *(more projects will be added here as they're completed)*
-
-
