@@ -1,4 +1,4 @@
-# SpaceX Falcon 9 First-Stage Landing Prediction — Data Science Capstone
+# SpaceX Falcon 9 First-Stage Landing Prediction, Data Science Capstone
 
 Predicting whether a Falcon 9 first-stage booster will land successfully, using data collected from the SpaceX API and Wikipedia, explored with SQL and visualization, mapped interactively with Folium, presented in a Plotly Dash dashboard, and modeled with four classifiers (Logistic Regression, SVM, Decision Tree, KNN).
 
