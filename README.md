@@ -1,6 +1,6 @@
 # IBM Data Science Professional Certificate
 Projects and notebooks completed as part of the [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) on Coursera.
-I'm did this alongside my BSc in Computer Science, with an eye toward strengthening the data-analysis side of a future cybersecurity/security analyst role (e.g. anomaly detection, log analysis, working with large datasets).
+I did this alongside my BSc in Computer Science, with an eye toward strengthening the data-analysis side of a future cybersecurity/security analyst role (e.g. anomaly detection, log analysis, working with large datasets).
 ## Projects
 | # | Project | Description |
 |---|---------|-------------|
